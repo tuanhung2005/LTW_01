@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#cars {
+    width: 90px; /* Điều chỉnh chiều rộng */
+    padding: 8px; /* Thêm padding */
+    font-size: 14px; /* Kích thước chữ */
+    border-radius: 4px; 
+    border: 1px solid #ccc; /* Đường viền */
+    outline: none; 
+    background-color: #f9f9f9; 
+    color: #333; 
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.brand {
+    flex: 1;
+}
+
+.brand h2 {
+    font-size: 24px;
+}
+
+.social-links {
+    list-style: none;
+    padding: 0;
+}
+
+.social-links li {
+    margin: 5px 0;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: black; /* Chuyển sang màu đen */
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.social-links a:hover {
+    color: gray; /* Màu khi di chuột qua liên kết */
+}
+
+.social-links i {
+    margin-right: 8px;
+    font-size: 20px;
+    color: black; /* Màu của biểu tượng */
+}
+
+
+.menu {
+    display: flex;
+    flex: 3;
+    justify-content: space-between;
+}
+
+.menu div {
+    margin-right: 30px;
+}
+
+.menu h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    margin: 5px 0;
+    font-size: 16px;
+}
