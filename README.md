@@ -14,4 +14,3 @@ bài tập 3
 
 
 
-# note-app
