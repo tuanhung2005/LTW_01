@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng nhập</title>
+    <link rel="stylesheet" href="index_01.css">
+</head>
+
+<body>
+    <div class="login-container">
+        <!-- Form đăng nhập -->
+        <div class="form-login">
+            <a href="#" class="back-home">
+                <h5>&lt;&nbsp;Quay lại Trang chủ</h5>
+            </a>
+            <h2>Đăng nhập</h2>
+            <form id="login-form" action="#" method="POST" onsubmit="return validateForm()">
+                <label for="email">Email đăng nhập</label>
+                <input type="email" id="email" placeholder="Vui lòng nhập email" required>
+
+                <label for="password">Mật khẩu</label>
+                <div class="password-container">
+                    <input type="password" id="password" placeholder="Vui lòng nhập mật khẩu" required>
+                    <span class="eye-icon" onclick="togglePasswordVisibility()">👁️‍🗨️</span> 
+                </div>
+
+                <div class="forgot-password">
+                    <a href="#">Quên mật khẩu</a>
+                </div>
+
+                <button type="submit" class="btn-login">Đăng nhập</button>
+            </form>
+            <p>Bạn chưa có tài khoản? <a href="#">Đăng ký</a></p>
+        </div>
+
+        <!-- Banner -->
+        <div class="image-banner">
+            <img src="https://levica.vn/wp-content/uploads/2020/10/toi-uu-hinh-anh-quang-cao_01.png" alt="Banner">
+        </div>
+    </div>
+
+    <script src="index_01.js"></script>
+</body>
+
+</html>

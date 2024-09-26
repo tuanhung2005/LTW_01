@@ -1,0 +1,116 @@
+/* Reset mặc định */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container chính */
+.login-container {
+    display: flex;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 900px;
+    height: 500px;
+}
+
+/* Form đăng nhập */
+.form-login {
+    padding: 40px;
+    flex: 1;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-login h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.form-login label {
+    font-size: 14px;
+    color: #666;
+}
+
+.form-login input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* Chứa trường mật khẩu và biểu tượng ẩn/hiện */
+.password-container {
+    position: relative;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Nút đăng nhập */
+.btn-login {
+    background: linear-gradient(to right, #007bff, #002855);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn-login:hover {
+    background: linear-gradient(to right, #0056b3, #001f3f);
+}
+
+/* Liên kết "Quên mật khẩu" và "Đăng ký" */
+.forgot-password, p {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.forgot-password a, p a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.forgot-password a:hover, p a:hover {
+    text-decoration: underline;
+}
+
+/* Phần banner */
+.image-banner {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #004085;
+}
+
+.image-banner img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
