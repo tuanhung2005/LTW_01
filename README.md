@@ -8,7 +8,7 @@ bài tập 1
 
 bài tập 2
 
-![Screenshot 2024-09-19 215620](https://github.com/user-attachments/assets/31d15792-5af9-49ae-a533-31e1ff256afb)
+ ![Screenshot 2024-10-01 002041](https://github.com/user-attachments/assets/17cc6a22-e307-485e-b1df-c40af83eac87)
 
 bài tập 3
 
@@ -16,5 +16,11 @@ bài tập 3
 
 bài tập 4
 
-![Screenshot 2024-09-26 120501](https://github.com/user-attachments/assets/14276a29-9210-45ba-a044-c6aafadc5e6e)
+![Screenshot 2024-10-01 002126](https://github.com/user-attachments/assets/deb79e27-9da4-4b8f-8e06-e199a8a6df8a)
+
+bài tập 5
+
+![Screenshot 2024-10-01 002155](https://github.com/user-attachments/assets/ce90d27e-b268-40e8-8344-130eba5c44e2)
+![Screenshot 2024-10-01 002210](https://github.com/user-attachments/assets/85a23162-9de1-4723-b068-f43aea7a25c1)
+![Screenshot 2024-10-01 002219](https://github.com/user-attachments/assets/24d70ec4-e548-4f8a-9f8f-bc6a8316a28d)
 
