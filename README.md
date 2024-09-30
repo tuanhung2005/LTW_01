@@ -24,7 +24,7 @@ https://subdued-material-lunaria.glitch.me/b%C3%A0i_04/index_01.html
 
 bài tập 5
 
-![Screenshot 2024-10-01 002155](https://github.com/user-attachments/assets/ce90d27e-b268-40e8-8344-130eba5c44e2)
-![Screenshot 2024-10-01 002210](https://github.com/user-attachments/assets/85a23162-9de1-4723-b068-f43aea7a25c1)
-![Screenshot 2024-10-01 002219](https://github.com/user-attachments/assets/24d70ec4-e548-4f8a-9f8f-bc6a8316a28d)
+![Screenshot 2024-10-01 002155](https://github.com/user-attachments/assets/ce90d27e-b268-40e8-8344-130eba5c44e2)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_01.html
+![Screenshot 2024-10-01 002210](https://github.com/user-attachments/assets/85a23162-9de1-4723-b068-f43aea7a25c1)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_02.html
+![Screenshot 2024-10-01 002219](https://github.com/user-attachments/assets/24d70ec4-e548-4f8a-9f8f-bc6a8316a28d)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_03.html
 
