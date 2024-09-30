@@ -14,5 +14,7 @@ bài tập 3
 
 ![Screenshot 2024-09-23 115925](https://github.com/user-attachments/assets/6727bf2f-3002-4a59-b78e-ec1d6b6d67ae)
 
+bài tập 4
 
+![Screenshot 2024-09-26 120501](https://github.com/user-attachments/assets/14276a29-9210-45ba-a044-c6aafadc5e6e)
 
