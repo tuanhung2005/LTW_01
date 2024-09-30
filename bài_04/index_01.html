@@ -1,35 +1,34 @@
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đăng nhập</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link rel="stylesheet" href="index_01.css">
+    <title>Đăng nhập</title>
 </head>
-
 <body>
     <div class="login-container">
         <!-- Form đăng nhập -->
         <div class="form-login">
-            <a href="#" class="back-home">
-                <h5>&lt;&nbsp;Quay lại Trang chủ</h5>
-            </a>
+            <a href="#" class="back-home">&lt;&nbsp;Quay lại Trang chủ</a>
             <h2>Đăng nhập</h2>
-            <form id="login-form" action="#" method="POST" onsubmit="return validateForm()">
+            <form action="#" method="POST">
                 <label for="email">Email đăng nhập</label>
                 <input type="email" id="email" placeholder="Vui lòng nhập email" required>
-
+                
                 <label for="password">Mật khẩu</label>
                 <div class="password-container">
                     <input type="password" id="password" placeholder="Vui lòng nhập mật khẩu" required>
-                    <span class="eye-icon" onclick="togglePasswordVisibility()">👁️‍🗨️</span> 
+                    <div class="eye-icon" id="togglePassword">
+                        <i class="fa-solid fa-eye"></i>
+                    </div>
                 </div>
-
+                
                 <div class="forgot-password">
                     <a href="#">Quên mật khẩu</a>
                 </div>
-
+                
                 <button type="submit" class="btn-login">Đăng nhập</button>
             </form>
             <p>Bạn chưa có tài khoản? <a href="#">Đăng ký</a></p>
@@ -43,5 +42,4 @@
 
     <script src="index_01.js"></script>
 </body>
-
 </html>

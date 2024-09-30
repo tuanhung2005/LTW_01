@@ -1,23 +1,23 @@
-function togglePasswordVisibility() {
-    const passwordInput = document.getElementById("password");
-    const eyeIcon = document.querySelector(".eye-icon");
+document.getElementById('togglePassword').addEventListener('click', function () {
+    var passwordInput = document.getElementById('password');
+    var icon = document.getElementById('togglePassword').querySelector('i'); 
 
-    if (passwordInput.type === "password") {
-        passwordInput.type = "text";
-        eyeIcon.textContent = "🙈";  // Biểu tượng khi hiển thị mật khẩu
+    if (passwordInput.type === 'password') {
+        passwordInput.type = 'text';
+        icon.classList.remove('fa-eye');
+        icon.classList.add('fa-eye-slash');
     } else {
-        passwordInput.type = "password";
-        eyeIcon.textContent = "👁️‍🗨️";  // Biểu tượng khi ẩn mật khẩu
+        passwordInput.type = 'password';
+        icon.classList.remove('fa-eye-slash');
+        icon.classList.add('fa-eye'); 
     }
-}
+});
 
-// Kiểm tra định dạng email
 function validateEmail(email) {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailRegex.test(email);
 }
 
-// Hàm validate form trước khi gửi
 function validateForm() {
     const email = document.getElementById("email").value;
     const password = document.getElementById("password").value;

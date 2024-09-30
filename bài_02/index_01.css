@@ -1,11 +1,9 @@
-/* Reset mặc định */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -15,7 +13,6 @@ body {
     height: 100vh;
 }
 
-/* Container chính */
 .login-container {
     display: flex;
     background-color: #fff;
@@ -26,7 +23,6 @@ body {
     height: 500px;
 }
 
-/* Form đăng nhập */
 .form-login {
     padding: 40px;
     flex: 1;
@@ -34,6 +30,18 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.form-login a {
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.form-login p {
+    text-align: center;
+    margin: 18px;
 }
 
 .form-login h2 {
@@ -58,17 +66,23 @@ body {
 
 .password-container {
     position: relative;
+    display: flex;
+    align-items: center; 
+}
+
+.password-container input {
+    padding-right: 40px; 
 }
 
 .password-container .eye-icon {
     position: absolute;
-    right: 10px;
-    top: 50%;
+    right: 10px; 
+    top: 50%; 
     transform: translateY(-50%);
     cursor: pointer;
+    color: #000; 
 }
 
-/* Nút đăng nhập */
 .btn-login {
     background: linear-gradient(to right, #007bff, #002855);
     color: #fff;
@@ -77,20 +91,20 @@ body {
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
+    width: 100%;
 }
 
 .btn-login:hover {
     background: linear-gradient(to right, #0056b3, #001f3f);
 }
 
-/* Liên kết "Quên mật khẩu" và "Đăng ký" */
-.forgot-password, p {
+.forgot-password {
     text-align: right;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .forgot-password a, p a {
-    color: #007bff;
+    color: #000;
     text-decoration: none;
 }
 
@@ -98,7 +112,6 @@ body {
     text-decoration: underline;
 }
 
-/* Phần banner */
 .image-banner {
     flex: 1;
     display: flex;
