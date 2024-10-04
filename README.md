@@ -28,3 +28,9 @@ bài tập 5
 ![Screenshot 2024-10-01 002210](https://github.com/user-attachments/assets/85a23162-9de1-4723-b068-f43aea7a25c1)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_02.html
 ![Screenshot 2024-10-01 002219](https://github.com/user-attachments/assets/24d70ec4-e548-4f8a-9f8f-bc6a8316a28d)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_03.html
 
+bài tập 6
+
+![Screenshot 2024-10-04 120319](https://github.com/user-attachments/assets/a1ba7b69-b88b-41d2-8ba6-fe0cb4f74179)https://pentagonal-amber-memory.glitch.me/b%C3%A0i_06/index_01.html
+
+
+
