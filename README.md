@@ -5,6 +5,7 @@ Hình ảnh kết quả.
 bài tập 1
 
 ![Screenshot 2024-09-16 121337](https://github.com/user-attachments/assets/614b1da0-b624-4211-b8e5-9d969c0cd081)
+
 https://pastoral-precious-maple.glitch.me/b%C3%A0i_01/index_01.html
 
 bài tập 2
