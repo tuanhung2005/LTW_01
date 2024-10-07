@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Menu - Grid</title>
+    <style>
+        .top-menu-grid {
+            display: grid;
+            grid-template-columns: 1fr auto;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            background-color: #f9f9f9; 
+        }
+
+        .top-menu-grid .left-section a, 
+        .top-menu-grid .right-section a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #333;
+            font-size: 16px;
+        }
+
+        .top-menu-grid .left-section a:last-child,
+        .top-menu-grid .right-section a:last-child {
+            margin-right: 0;
+        }
+
+        .top-menu-grid .right-section a {
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .top-menu-grid .right-section a img {
+            margin-right: 5px;
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h2>TopMenu bằng Grid</h2>
+    <div class="top-menu-grid">
+        <div class="left-section">
+            <a href="#">Rao vặt</a>
+            <a href="#">Tư vấn</a>
+            <a href="#">Hỏi đáp</a>
+            <a href="#">Hỗ trợ</a>
+        </div>
+
+        <div class="right-section">
+            <a href="#"><img src="images/icon_cart.png" alt="Cart Icon"></a>
+            <a href="#"><img src="images/icon_eye.png" alt="Eye Icon"></a>
+            <a href="#"><img src="images/icon_eye.png" alt="Eye Icon"></a>
+            <a href="#"><img src="images/icon_user.png" alt="User Icon"> Đăng ký</a>
+            <a href="#"><img src="images/icon_user.png" alt="User Icon"> Đăng nhập</a>
+        </div>
+    </div>
+</body>
+</html>
