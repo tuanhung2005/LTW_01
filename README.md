@@ -5,6 +5,7 @@ Hình ảnh kết quả.
 bài tập 1
 
 ![Screenshot 2024-09-16 121337](https://github.com/user-attachments/assets/614b1da0-b624-4211-b8e5-9d969c0cd081)
+
 https://pastoral-precious-maple.glitch.me/b%C3%A0i_01/index_01.html
 
 bài tập 2
@@ -27,4 +28,10 @@ bài tập 5
 ![Screenshot 2024-10-01 002155](https://github.com/user-attachments/assets/ce90d27e-b268-40e8-8344-130eba5c44e2)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_01.html
 ![Screenshot 2024-10-01 002210](https://github.com/user-attachments/assets/85a23162-9de1-4723-b068-f43aea7a25c1)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_02.html
 ![Screenshot 2024-10-01 002219](https://github.com/user-attachments/assets/24d70ec4-e548-4f8a-9f8f-bc6a8316a28d)https://subdued-material-lunaria.glitch.me/b%C3%A0i_05/index_03.html
+
+bài tập 6
+
+![Screenshot 2024-10-04 120319](https://github.com/user-attachments/assets/a1ba7b69-b88b-41d2-8ba6-fe0cb4f74179)https://pentagonal-amber-memory.glitch.me/b%C3%A0i_06/index_01.html
+
+
 
