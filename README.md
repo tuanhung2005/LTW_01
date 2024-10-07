@@ -35,8 +35,8 @@ bài tập 6
 
 bài tập 7
 
-![Screenshot 2024-10-07 222614](https://github.com/user-attachments/assets/052a44c1-f6c4-45d3-917f-10f89cb9ee1a)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_01.html
-![Screenshot 2024-10-07 222606](https://github.com/user-attachments/assets/ea50a9b7-1d0f-499e-89c2-77416f0fd8cc)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_02.html
+![Screenshot 2024-10-07 222606](https://github.com/user-attachments/assets/ea50a9b7-1d0f-499e-89c2-77416f0fd8cc)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_01.html
+![Screenshot 2024-10-07 222614](https://github.com/user-attachments/assets/052a44c1-f6c4-45d3-917f-10f89cb9ee1a)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_02.html
 
 
 
