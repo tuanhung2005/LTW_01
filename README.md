@@ -40,5 +40,6 @@ bài tập 7
 
 What our happy client say
 
-![Screenshot 2024-10-14 221228](https://github.com/user-attachments/assets/250ed39b-1fc5-4e86-a3fe-6838bd74af59)https://bright-sphenoid-ruby.glitch.me/What%20our%20happy%20client%20say/index_01.html
+![Screenshot 2024-10-14 221228](https://github.com/user-attachments/assets/250ed39b-1fc5-4e86-a3fe-6838bd74af59)
+https://bright-sphenoid-ruby.glitch.me/What%20our%20happy%20client%20say/index_01.html
 
