@@ -38,5 +38,7 @@ bài tập 7
 ![Screenshot 2024-10-07 222606](https://github.com/user-attachments/assets/ea50a9b7-1d0f-499e-89c2-77416f0fd8cc)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_01.html
 ![Screenshot 2024-10-07 222614](https://github.com/user-attachments/assets/052a44c1-f6c4-45d3-917f-10f89cb9ee1a)https://determined-achieved-radar.glitch.me/b%C3%A0i_07/index_02.html
 
+What our happy client say
 
+![Screenshot 2024-10-14 221228](https://github.com/user-attachments/assets/250ed39b-1fc5-4e86-a3fe-6838bd74af59)https://bright-sphenoid-ruby.glitch.me/What%20our%20happy%20client%20say/index_01.html
 
